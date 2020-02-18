@@ -1,0 +1,11 @@
+#!/bin/bash
+### 1st function
+#username="$1"
+#user_password="${2:-1234}"
+#echo "$username $user_password"
+
+### 2nd function
+read -p "Enter a username : " user_name
+read -sp "enter a password : " user_password
+echo -e "\n$user_name and $user_password"
+ 
