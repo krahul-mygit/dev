@@ -1,10 +1,6 @@
-MERGE CONFLICT!!!
-
-
 hello all
 welcome devops engineer!!!
-welcome to devops tutorial
-
+welcome to devops tutor
 checking git merge!!
 
 Merge!! conflict!!!!!! TESTED!!
