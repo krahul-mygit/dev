@@ -6,3 +6,5 @@ checking git merge!!
 Merge!! conflict!!!!!! TESTED!!
 
 to check git clean!!
+
+some more editing done!!
